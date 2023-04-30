@@ -11,6 +11,6 @@ ACME_Call_Center: Call ceter data from October, 2020 from 4 different call cente
 > Audience: Call center managers
 
 ACME_Career_Analysis: I just received the attached labor statistics data from 2017 to 2020.<br />
-> Data Type: Categorical and Geospaial
+> Data Type: Categorical and Geospaial.<br />
 > Purpose: Show the frequency of values to explore wage and employment trends, and compare them across industries.<br />
 > Audience: General public mainly school students and parents.<br />
